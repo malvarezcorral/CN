@@ -10,7 +10,7 @@
 	<body>
 		<div id="general">
 			
-			<div id="header">
+			<center><div id="header">
 			 	  <center>
 				  		  <h2>
 			 			  	  Instituto Tecnol&oacute;gico de Tijuana
@@ -50,7 +50,7 @@
     					  </button>
   					</form>
 				</div>
-			</div>
+			</div></center>
 		</div>
 	</body>
 </html>
