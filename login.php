@@ -9,9 +9,7 @@
 	</head>
 	<body>
 		<div id="general">
-			<div id="info">	
-				
-			</div>
+			
 			<div id="header">
 			 	  <center>
 				  		  <h2>
