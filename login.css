@@ -6,13 +6,13 @@
  }
 div#general{
   margin:auto;
-  margin:40px;
+  margin-top:40px;
   width:1120px;
   height:880px;
   background-color:#38556a;
  }
 div#header{
-  margin:20px;
+  margin:40px;
   width:640px;
   height:160px;
   background-color:#273952;
