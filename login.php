@@ -9,10 +9,11 @@
 	</head>
 	<body>
 		<div id="general">
-			
+			<br>
 			<center><div id="header">
 			 	  <center>
 				  		  <h2>
+				  		  
 			 			  	  Instituto Tecnol&oacute;gico de Tijuana
 			 	  		  </h2>
 						  <h1>Servicio de Impresi&oacute;n 3D</h1>
