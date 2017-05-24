@@ -9,7 +9,7 @@
 	 	$codigo = $_POST['key'];
 		if($codigo == "")
 		{
-		  $codigo = "1";
+		  $codigo = "0";
 		}
         if(count($_FILES['upload']['name']) > 0)
         {
