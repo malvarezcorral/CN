@@ -16,7 +16,7 @@ div#header{
   width:640px;
   height:160px;
   background-color:#273952;
-  float:left;
+  float:center;
  }
  
 div#info{
@@ -46,7 +46,7 @@ div#body{
          width:640px;
          height:440px;
          background-color:#e0fcff;
-         float:left;
+         float:center;
          text-align:center;
  }
 div#formulario{

@@ -3,7 +3,7 @@
 <html lang="es">
 	<head>
 		<title>Impresi&oacute;n 3D - Instituto Tecnologico de Tijuana</title>
-		<link rel="stylesheet" type="text/css" href="main.css">
+		<link rel="stylesheet" type="text/css" href="login.css">
 		<link href='//fonts.googleapis.com/css?family=Roboto' rel='stylesheet2'>
 		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 	</head>
